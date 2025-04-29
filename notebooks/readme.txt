@@ -10,7 +10,6 @@
   (11) Diagonalization 2x2 Hamiltonian
   (12) Animation
   (13) Poisson equation
-  (14) tp.Figure
   (15) Rabi oscillations
   (16) Rabi oscillations
   (17) Study for Kuramoto model
