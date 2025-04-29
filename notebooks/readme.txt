@@ -18,7 +18,5 @@
   (19) Quench d-wave BCS superconductor
   (20) Rabi oscillations
   (21) Rabi oscillations
-  (22) Study for two limit cycles
-  (23) Study for two limit cycles
   (24) Study for Kuramoto model
 
